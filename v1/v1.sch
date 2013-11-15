@@ -5611,6 +5611,9 @@ Mating wall wart : TOL-00298 (and others)</description>
 <text x="-124.46" y="93.98" size="6.4516" layer="97">NUTRIENT</text>
 <text x="-167.64" y="233.68" size="6.4516" layer="97">LED_DRIVER</text>
 <text x="114.3" y="139.7" size="1.778" layer="91">Vi må ha RCfiltere og noen steder</text>
+<text x="124.46" y="35.56" size="1.778" layer="91">Krydderino</text>
+<text x="127" y="30.48" size="1.778" layer="91">3.01</text>
+<text x="132.08" y="20.32" size="1.778" layer="91">Kristebo</text>
 </plain>
 <instances>
 <instance part="Q1" gate="1" x="63.5" y="116.84" rot="R270"/>
